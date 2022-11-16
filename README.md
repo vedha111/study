@@ -1,1 +1,1 @@
-# study
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hftnk3fbr2r4pv5e5usyc7a4ni&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
